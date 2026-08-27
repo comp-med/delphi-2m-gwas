@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+slurm_logs/
+tmpdir/
+output/
+graphics/

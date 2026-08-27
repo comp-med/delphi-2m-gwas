@@ -1,0 +1,4 @@
+all
+Female
+Male
+all	5000	50
